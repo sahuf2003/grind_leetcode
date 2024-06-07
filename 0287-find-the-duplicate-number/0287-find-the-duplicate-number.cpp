@@ -8,6 +8,6 @@ public:
                 return nums[i];
             }
         }
-        return len;
+        return 0;
     }
 };
