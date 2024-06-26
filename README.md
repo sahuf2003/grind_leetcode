@@ -37,6 +37,7 @@ C++
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sahuf2003/grind_leetcode/tree/master/0048-rotate-image) |
 # Matrix
 |  |
