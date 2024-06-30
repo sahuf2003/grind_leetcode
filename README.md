@@ -66,4 +66,12 @@ C++
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sahuf2003/grind_leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sahuf2003/grind_leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
