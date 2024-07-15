@@ -61,10 +61,12 @@ C++
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sahuf2003/grind_leetcode/tree/master/0125-valid-palindrome) |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sahuf2003/grind_leetcode/tree/master/0125-valid-palindrome) |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
