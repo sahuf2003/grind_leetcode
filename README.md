@@ -73,8 +73,13 @@ C++
 | ------- |
 | [0001-two-sum](https://github.com/sahuf2003/grind_leetcode/tree/master/0001-two-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahuf2003/grind_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/sahuf2003/grind_leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahuf2003/grind_leetcode/tree/master/0001-two-sum) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/sahuf2003/grind_leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
