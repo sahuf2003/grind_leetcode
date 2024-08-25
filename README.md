@@ -72,6 +72,7 @@ C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahuf2003/grind_leetcode/tree/master/0001-two-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sahuf2003/grind_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
