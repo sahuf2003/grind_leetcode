@@ -62,6 +62,7 @@ C++
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahuf2003/grind_leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sahuf2003/grind_leetcode/tree/master/0283-move-zeroes) |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
@@ -72,6 +73,7 @@ C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahuf2003/grind_leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/sahuf2003/grind_leetcode/tree/master/0283-move-zeroes) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahuf2003/grind_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/sahuf2003/grind_leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/sahuf2003/grind_leetcode/tree/master/2048-build-array-from-permutation) |
