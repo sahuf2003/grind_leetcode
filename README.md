@@ -71,6 +71,7 @@ C++
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahuf2003/grind_leetcode/tree/master/0125-valid-palindrome) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sahuf2003/grind_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -129,4 +130,8 @@ C++
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahuf2003/grind_leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahuf2003/grind_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sahuf2003/grind_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
