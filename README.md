@@ -59,6 +59,7 @@ C++
 | ------- |
 | [0009-palindrome-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sahuf2003/grind_leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sahuf2003/grind_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ C++
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sahuf2003/grind_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -134,4 +136,8 @@ C++
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sahuf2003/grind_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sahuf2003/grind_leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
