@@ -72,6 +72,7 @@ C++
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahuf2003/grind_leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sahuf2003/grind_leetcode/tree/master/0242-valid-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sahuf2003/grind_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -94,6 +95,7 @@ C++
 | ------- |
 | [0001-two-sum](https://github.com/sahuf2003/grind_leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sahuf2003/grind_leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sahuf2003/grind_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -117,6 +119,7 @@ C++
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahuf2003/grind_leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sahuf2003/grind_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
