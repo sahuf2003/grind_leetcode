@@ -67,6 +67,7 @@ C++
 | [0125-valid-palindrome](https://github.com/sahuf2003/grind_leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sahuf2003/grind_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sahuf2003/grind_leetcode/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/sahuf2003/grind_leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
@@ -75,6 +76,7 @@ C++
 | [0125-valid-palindrome](https://github.com/sahuf2003/grind_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sahuf2003/grind_leetcode/tree/master/0242-valid-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sahuf2003/grind_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1894-merge-strings-alternately](https://github.com/sahuf2003/grind_leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/sahuf2003/grind_leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
