@@ -93,6 +93,7 @@ C++
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahuf2003/grind_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/sahuf2003/grind_leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/sahuf2003/grind_leetcode/tree/master/2048-build-array-from-permutation) |
+| [2350-find-closest-number-to-zero](https://github.com/sahuf2003/grind_leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
