@@ -92,6 +92,7 @@ C++
 | [0268-missing-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahuf2003/grind_leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sahuf2003/grind_leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/sahuf2003/grind_leetcode/tree/master/0792-binary-search) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahuf2003/grind_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/sahuf2003/grind_leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/sahuf2003/grind_leetcode/tree/master/2048-build-array-from-permutation) |
@@ -117,6 +118,7 @@ C++
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahuf2003/grind_leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/sahuf2003/grind_leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
